@@ -44,7 +44,7 @@
     "yargs": "^15.0.2"
   },
   "scripts": {
-    "start": "webpack --port 8100"
+    "start": "webpack-dev-server --port 8100"
   },
   "repository": {
     "type": "git",
